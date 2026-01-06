@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Simple setup script
 # Edited by Riley Porter 12/31/25
 
 # Load required modules
@@ -60,3 +59,4 @@ echo 'export R_LIBS_USER=~/R/x86_64-pc-linux-gnu-library/4.4' >> ~/.bash_profile
 
 # Source updated bash config
 source ~/.bashrc
+
